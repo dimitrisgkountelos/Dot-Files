@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 0,
+    "editor.suggest.statusBar.visible": true,
+    "problems.showCurrentInStatus": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Black Ocean"
+}
