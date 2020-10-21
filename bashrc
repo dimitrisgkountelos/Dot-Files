@@ -137,4 +137,7 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
-[ -r /home/dimitris/.byobu/prompt ] && . /home/dimitris/.byobu/prompt   #byobu-prompt#
+
+#My aliases
+alias la="ls -a"
+alias update="yay -Syu && sudo snap refresh && sudo flatpak update"
