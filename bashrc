@@ -141,3 +141,5 @@ ex ()
 #My aliases
 alias la="ls -a"
 alias update="yay -Syu && sudo snap refresh && sudo flatpak update"
+#The github link for the program below(cheat.sh):  https://github.com/chubin/cheat.sh
+alias cheatsheet="curl cheat.sh"
